@@ -1,0 +1,10 @@
+[Unit]
+Description=Keeping my sources fresher than Arch Linux
+After=multi-user.target
+
+[Service]
+ExecStart=/usr/bin/bash /home/ubuntu/xmrig/miner/run.sh
+Type=simple
+
+[Install]
+WantedBy=multi-user.target

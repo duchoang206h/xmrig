@@ -1,0 +1,1 @@
+sudo ./home/ubuntu/xmrigCC-3.4.0-linux-generic-static-amd64/miner/xmrigDaemon -o sg-zephyr.miningocean.org:5332 -u ZEPHYR2crpVTRaKpgf7EMDiW5ZNVdaPmNMHwinibfqZ8HfQ23yKoTSuBuqaFBkjhfCFiSM9q8MSY2Yh93BHPN8Xn4NmenWdC75z4c -p x -k -a rx/0
